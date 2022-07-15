@@ -11,13 +11,30 @@ ASSIGNMENT
  
 Inputs from data file (Excel and CSV). Same process works for fetching or processing data from database server
 
-
+![](Store%20data/Inputs.png)
 
 Data Model for assignment 1 and 2
 
 Update Existing and New orders with Return Indicator
 
-
+![](Store%20data/Assignment1.png)
 
 Update customer details
+
+![](Store%20data/Assignment2.png)
+
+PFB entire data model for wholesale store data processing
+
+![](Store%20data/Final.png)
+
+Outputs:
+
+1)Updated Existing and New orders with Return Indicator
+
+![](Store%20data/Order_details.png)
+
+2)Updated customer details
+
+
+![](Store%20data/Customer_details.png)
 
